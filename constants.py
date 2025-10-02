@@ -1,0 +1,17 @@
+# Цвета
+COLORS = {
+    'BACKGROUND': (240, 240, 240),
+    'GRID_LINES': (200, 200, 200),
+    'CELL_ALIVE': (0, 0, 0),
+    'CELL_DEAD': (255, 255, 255),
+    'BUTTON_NORMAL': (100, 100, 100),
+    'BUTTON_HOVER': (150, 150, 150),
+    'TEXT': (0, 0, 0)
+}
+
+# Настройки по умолчанию
+DEFAULT_WIDTH = 800
+DEFAULT_HEIGHT = 600
+DEFAULT_CELL_SIZE = 10
+DEFAULT_PERCENTAGE = 30.0
+DEFAULT_FPS = 60
